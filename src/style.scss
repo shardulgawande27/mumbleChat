@@ -279,6 +279,11 @@
             }
           }
         }
+       
+      }
+
+      .messages::-webkit-scrollbar {
+        display: none;
       }
 
       .input {
